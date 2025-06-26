@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patients/register-patient.md",
+                "file": "patients/get-patient-details.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "register-patient"
-            }
-          },
-          {
-            "id": "ac87c9c0957850d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "build-and-deployement/system-administration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "system-administration"
+              "title": "get-patient-details"
             }
           }
         ]
@@ -184,41 +170,41 @@
   },
   "active": "2a88a69d4ec25996",
   "lastOpenFiles": [
-    "patients/overview.md",
+    "patients/get-patients-list.md",
+    "patients/get-patient-details.md",
+    "common-dtos/full-patient-dto.md",
+    "common-dtos/simple-patient-dto.md",
+    "common-dtos/invoice-item-dto.md",
     "patients/register-patient.md",
+    "patients/overview.md",
+    "appointments/create-appointment-request.md",
+    "appointments/get-appointments-list.md",
+    "general/get-settings-list.md",
+    "common-dtos/_category_.json",
+    "common-dtos/Create Appointment Request.md",
+    "common-dtos",
+    "appointments copy/_category_.json",
+    "appointments copy/Create Appointment Request.md",
+    "appointments copy",
+    "appointments/_category_.json",
+    "appointments",
+    "general/register-patient.md",
+    "general/overview.md",
+    "general/_category_.json",
+    "general",
+    "patients copy/register-patient.md",
+    "patients copy/overview.md",
+    "patients copy/_category_.json",
+    "patients copy",
     "intro.md",
     "system-architecture.md",
     "patients/pekk-stack copy.md",
     "patients/pekk-stack.md",
-    "patients/_category_.json",
-    "patients",
     "core-architecture/pekk-stack.md",
     "core-architecture/overview.md",
     "core-architecture/routing.md",
     "core-architecture/network-calls-and-dtos.md",
     "core-architecture/controllers-and-cruds.md",
-    "core-architecture/components-and-view-models.md",
-    "core-architecture/basic-ui-elements.md",
-    "appendix-a/overview.md",
-    "appendix-a/routing.md",
-    "appendix-a/network-calls-and-dtos.md",
-    "appendix-a/database-and-migrations.md",
-    "appendix-a/daos-and-repositories.md",
-    "appendix-a/controllers-and-cruds.md",
-    "appendix-a/components-and-view-models.md",
-    "appendix-a/basic-ui-elements.md",
-    "appendix-a/authorization-and-authentication.md",
-    "appendix-a/_category_.json",
-    "appendix-a",
-    "core-architecture (Copy)/routing.md",
-    "core-architecture (Copy)/overview.md",
-    "core-architecture (Copy)/network-calls-and-dtos.md",
-    "core-architecture (Copy)/database-and-migrations.md",
-    "core-architecture (Copy)/_category_.json",
-    "core-architecture (Copy)",
-    "build-and-deployement/_category_.json",
-    "build-and-deployement",
-    "core-architecture/_category_.json",
-    "core-architecture"
+    "core-architecture/components-and-view-models.md"
   ]
 }

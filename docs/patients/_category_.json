@@ -1,8 +1,8 @@
 {
-  "label": "Patients API Endpints",
+  "label": "Patients API Endpoints",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Patients API Endpints."
+    "description": "Patients API Endpoints."
   }
 }

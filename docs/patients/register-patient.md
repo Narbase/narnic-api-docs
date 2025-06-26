@@ -4,8 +4,11 @@ sidebar_position: 2
 # Register Patient
 ## Request
 URL:  `<BASE_URL>/api/user/v1/patients/add`
+
 VERB: `POST`
+
 Authentication: Bearer token
+
 Body:
 ```json
 {  
