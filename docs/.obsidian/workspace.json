@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "3ffd6ccbe9c8fe7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3a85a7d8b3ef16b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a88a69d4ec25996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patients/register-patient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "register-patient"
+            }
+          },
+          {
+            "id": "ac87c9c0957850d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "build-and-deployement/system-administration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "system-administration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73184fcee1f9f6d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e979f2b130389a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9b8f3679592eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b672fe5b540f28ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81de598660d4e2ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "right": {
+    "id": "c170081ad2f3e7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e4ad7e3aec0d7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821119c724eae784",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for intro"
+            }
+          },
+          {
+            "id": "c0e821e1f2ae2aba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from intro"
+            }
+          },
+          {
+            "id": "4a75a4ced27ac54b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78f9c145897e30e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a88a69d4ec25996",
+  "lastOpenFiles": [
+    "patients/overview.md",
+    "patients/register-patient.md",
+    "intro.md",
+    "system-architecture.md",
+    "patients/pekk-stack copy.md",
+    "patients/pekk-stack.md",
+    "patients/_category_.json",
+    "patients",
+    "core-architecture/pekk-stack.md",
+    "core-architecture/overview.md",
+    "core-architecture/routing.md",
+    "core-architecture/network-calls-and-dtos.md",
+    "core-architecture/controllers-and-cruds.md",
+    "core-architecture/components-and-view-models.md",
+    "core-architecture/basic-ui-elements.md",
+    "appendix-a/overview.md",
+    "appendix-a/routing.md",
+    "appendix-a/network-calls-and-dtos.md",
+    "appendix-a/database-and-migrations.md",
+    "appendix-a/daos-and-repositories.md",
+    "appendix-a/controllers-and-cruds.md",
+    "appendix-a/components-and-view-models.md",
+    "appendix-a/basic-ui-elements.md",
+    "appendix-a/authorization-and-authentication.md",
+    "appendix-a/_category_.json",
+    "appendix-a",
+    "core-architecture (Copy)/routing.md",
+    "core-architecture (Copy)/overview.md",
+    "core-architecture (Copy)/network-calls-and-dtos.md",
+    "core-architecture (Copy)/database-and-migrations.md",
+    "core-architecture (Copy)/_category_.json",
+    "core-architecture (Copy)",
+    "build-and-deployement/_category_.json",
+    "build-and-deployement",
+    "core-architecture/_category_.json",
+    "core-architecture"
+  ]
+}
