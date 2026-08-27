@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patients/get-patient-details.md",
+                "file": "common-dtos/dental-treatment-dto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "get-patient-details"
+              "title": "dental-treatment-dto"
+            }
+          },
+          {
+            "id": "b59623639f369466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "common-dtos/full-patient-dto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "full-patient-dto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -160,6 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,43 +186,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a88a69d4ec25996",
+  "active": "b59623639f369466",
   "lastOpenFiles": [
-    "patients/get-patients-list.md",
-    "patients/get-patient-details.md",
+    "common-dtos/patient-insurance-plan-dto.md",
     "common-dtos/full-patient-dto.md",
+    "patients/get-dental-treatment-plan.md",
     "common-dtos/simple-patient-dto.md",
+    "common-dtos/dental-treatment-dto.md",
+    "common-dtos/treatment-template-dto.md",
+    "patients/get-patient-details.md",
+    "common-dtos/intro.md",
     "common-dtos/invoice-item-dto.md",
-    "patients/register-patient.md",
+    "common-dtos/dental-treatment-plan.md",
+    "emr/register-patient.md",
+    "patients/get-patients-list.md",
+    "general/get-settings-list.md",
+    "emr",
+    "admin/get-appointments-list.md",
+    "admin/create-appointment-request.md",
+    "admin/_category_.json",
+    "admin",
+    "appointments copy/get-appointments-list.md",
+    "appointments copy/create-appointment-request.md",
+    "appointments copy/_category_.json",
+    "appointments copy",
     "patients/overview.md",
     "appointments/create-appointment-request.md",
     "appointments/get-appointments-list.md",
-    "general/get-settings-list.md",
     "common-dtos/_category_.json",
     "common-dtos/Create Appointment Request.md",
     "common-dtos",
-    "appointments copy/_category_.json",
     "appointments copy/Create Appointment Request.md",
-    "appointments copy",
     "appointments/_category_.json",
     "appointments",
     "general/register-patient.md",
     "general/overview.md",
     "general/_category_.json",
-    "general",
     "patients copy/register-patient.md",
-    "patients copy/overview.md",
-    "patients copy/_category_.json",
-    "patients copy",
-    "intro.md",
-    "system-architecture.md",
-    "patients/pekk-stack copy.md",
-    "patients/pekk-stack.md",
-    "core-architecture/pekk-stack.md",
-    "core-architecture/overview.md",
-    "core-architecture/routing.md",
-    "core-architecture/network-calls-and-dtos.md",
-    "core-architecture/controllers-and-cruds.md",
-    "core-architecture/components-and-view-models.md"
+    "patients copy/overview.md"
   ]
 }
