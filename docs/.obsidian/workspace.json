@@ -188,6 +188,7 @@
   },
   "active": "b59623639f369466",
   "lastOpenFiles": [
+    "emr/_category_.json",
     "common-dtos/full-patient-dto.md",
     "common-dtos/dental-treatment-dto.md",
     "common-dtos/invoice-item-dto.md",
@@ -222,7 +223,6 @@
     "general/register-patient.md",
     "general/overview.md",
     "general/_category_.json",
-    "patients copy/register-patient.md",
-    "patients copy/overview.md"
+    "patients copy/register-patient.md"
   ]
 }

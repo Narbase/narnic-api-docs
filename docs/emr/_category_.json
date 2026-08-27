@@ -1,0 +1,8 @@
+{
+  "label": "EMR",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Electornic Medical Record."
+  }
+}
