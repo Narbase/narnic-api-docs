@@ -1,7 +1,17 @@
 ---
 sidebar_position: 1
+slug: /
 ---
-# Registering An App
+# Narnic API Documentation
+
+Narnic API Technical Documentation
+
+
+All requests uses `https://app.balsammedico.com/` as `BASE_URL`
+
+
+
+## Registering An App in Balsam Medico
 For integration, you will need to create an App in the admin area in Balsam Medico. This is will allow you to generate an authentication token for the app and to listen to the webhook from Balsam Medico. (Admin page > Apps > Add new)
 
 1. What types of API endpoints are available?
