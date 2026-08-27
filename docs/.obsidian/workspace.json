@@ -188,9 +188,9 @@
   },
   "active": "b59623639f369466",
   "lastOpenFiles": [
-    "common-dtos/invoice-item-dto.md",
-    "common-dtos/dental-treatment-dto.md",
     "common-dtos/full-patient-dto.md",
+    "common-dtos/dental-treatment-dto.md",
+    "common-dtos/invoice-item-dto.md",
     "common-dtos/patient-insurance-plan-dto.md",
     "patients/get-dental-treatment-plan.md",
     "common-dtos/simple-patient-dto.md",

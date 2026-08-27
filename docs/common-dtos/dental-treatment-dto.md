@@ -1,6 +1,7 @@
----  
-sidebar_position: 5  
----  
+---
+sidebar_position: 5
+---
+
 # Dental Treatment DTO  
   
 Represents a dental treatment created for a patient, including the treatment details, affected teeth, progress notes, applied taxes, and payment breakdown.  
