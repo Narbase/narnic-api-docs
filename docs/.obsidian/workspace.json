@@ -188,6 +188,11 @@
   },
   "active": "b59623639f369466",
   "lastOpenFiles": [
+    "registering-app/_category_.json",
+    "registering-app/registering-app",
+    "registering-app/registering-app-s",
+    "registering-app",
+    "registering-app-s",
     "patients/register-patient.md",
     "emr/get-dental-treatment-plan.md",
     "emr/_category_.json",
@@ -216,13 +221,8 @@
     "patients/overview.md",
     "appointments/create-appointment-request.md",
     "appointments/get-appointments-list.md",
-    "common-dtos/_category_.json",
     "common-dtos/Create Appointment Request.md",
-    "common-dtos",
     "appointments copy/Create Appointment Request.md",
-    "appointments/_category_.json",
-    "appointments",
-    "general/register-patient.md",
-    "general/overview.md"
+    "general/register-patient.md"
   ]
 }
