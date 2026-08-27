@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common-dtos/full-patient-dto.md",
+                "file": "common-dtos/dental-treatment-dto.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "full-patient-dto"
+              "title": "dental-treatment-dto"
             }
           }
         ],
@@ -188,15 +188,15 @@
   },
   "active": "b59623639f369466",
   "lastOpenFiles": [
-    "common-dtos/patient-insurance-plan-dto.md",
+    "common-dtos/invoice-item-dto.md",
+    "common-dtos/dental-treatment-dto.md",
     "common-dtos/full-patient-dto.md",
+    "common-dtos/patient-insurance-plan-dto.md",
     "patients/get-dental-treatment-plan.md",
     "common-dtos/simple-patient-dto.md",
-    "common-dtos/dental-treatment-dto.md",
     "common-dtos/treatment-template-dto.md",
     "patients/get-patient-details.md",
     "common-dtos/intro.md",
-    "common-dtos/invoice-item-dto.md",
     "common-dtos/dental-treatment-plan.md",
     "emr/register-patient.md",
     "patients/get-patients-list.md",
